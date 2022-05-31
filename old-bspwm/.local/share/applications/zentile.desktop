@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Zentile
+Comment=Zentile untuk xfwm4 keybindings
+Exec=zentile
+Categories=ConsoleOnly;System;

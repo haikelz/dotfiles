@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=True
+Exec=~/.local/share/Awesome_Flameshot/./awesome-flameshot
+Name=Awesome Flameshot
+Comment=Screenshot selain Scrot 

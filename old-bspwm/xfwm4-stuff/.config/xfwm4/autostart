@@ -1,0 +1,25 @@
+# Untuk autostart
+
+nitrogen --restore & 
+
+sxhkd & 
+
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & 
+
+xrdb ~/.Xresources &
+
+xset r rate 250 100 & 
+
+xsettingsd & 
+
+notify-send -u normal "Hai, Haikel" &
+
+picom --config ~/.config/picom.conf &
+
+~/.config/bspwm/pipewire/./pipewire.sh &
+
+tint2 &
+
+dunst &
+
+zentile &

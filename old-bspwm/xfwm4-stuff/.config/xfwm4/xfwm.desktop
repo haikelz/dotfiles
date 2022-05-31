@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Xfwm
+Comment=Menggunakan Xfwm4 standalone sebagai Window Manager
+Exec=/usr/bin/xfwm4-session.sh
+Icon=xfwm4
+Type=Application
